@@ -2,9 +2,9 @@
 
 ## Overview of Election Audit
 The purpose of this election audit was to verify all ballots cast in Jefferson, Denver, and Arapahoe counties in order to determine the winner of the election. Candidates were as follows:
-- Charles Casper Stockholm
-- Diana DeGette
-- Raymon Anthony Doane
+-Charles Casper Stockholm
+-Diana DeGette
+-Raymon Anthony Doane
 
 ## Results
 There was a total of 369,711 votes cast in the election.
